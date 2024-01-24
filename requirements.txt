@@ -1,0 +1,3 @@
+# build 123d
+build123d @ git+https://github.com/gumyr/build123d
+bd_warehouse @ git+https://github.com/gumyr/bd_warehouse
