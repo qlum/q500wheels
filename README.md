@@ -1,10 +1,10 @@
-# Printable feet to mound wheels
+# Printable feet to mount wheels on the Quibe
 
 ![Render of mounts](./images/preview.png)
 
 ---
 This model contains printable mounts for castor wheels.  
-It should be compatible with weels with 35x28mm hole spacing. I personally used a set of castor wheels bought at the local Dollar store (Action).  
+It should be compatible with wheels with 35x28mm hole spacing. I personally used a set of castor wheels bought at the local Dollar store (Action).  
 Any other hole spacing requires editing the model.  
 
 
