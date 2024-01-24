@@ -23,3 +23,7 @@ There are little to no comments
 If you just want to adjust the hole spacing you only have to touch `'X spacing'` and `'Y spacing'` in the config file.
 This should generally be safe.
 
+---
+
+## credits
+This model includes sample feet made by coolermaster, they can be found here: https://www.printables.com/model/588842-qube-500-sample-holders
