@@ -1,6 +1,6 @@
 # Printable feet to mound wheels
 
-![Render of mounts](./Images/render.png)
+![Render of mounts](./images/preview.png)
 
 ---
 This model contains printable mounts for castor wheels.  
