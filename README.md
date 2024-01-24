@@ -1,4 +1,4 @@
-# Printable feet to mount wheels on the Quibe
+# Printable feet to mount wheels onto the CoolerMaster Qube 500
 
 ![Render of mounts](./images/preview.png)
 
